@@ -155,7 +155,7 @@ footer div {
   display: flex;
   align-content: center;
   padding: 10px 20px;
-  color: rbg(255,255,255,0.75);
+  color: rbg (255, 255, 255, 0.75);
 
 }
 a {
